@@ -56,7 +56,7 @@ Hostel-lite/
 
 ---
 ```
-##⚙️ Start Services
+## ⚙️ Start Services
 🟢 Start Apache
 
 🟢 Start MySQL

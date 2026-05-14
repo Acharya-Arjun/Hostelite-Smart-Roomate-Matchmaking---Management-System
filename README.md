@@ -55,13 +55,59 @@ Hostel-lite/
     *   Navigate to `http://localhost/HMS` in your browser.
 
 ---
+```
+##⚙️ Start Services
+🟢 Start Apache
+
+🟢 Start MySQL
+
+(using XAMPP Control Panel)
+
+🗄️ Import Database
+🌐 Open phpMyAdmin
+
+## ➕ Create a database
+
+📥 Import the provided SQL file
+
+## 🚀 Run Project
+Open in browser:
+
+Bash
+```
+http://localhost/HMS
+```
+## 🔮 Future Improvements
+🤖 AI-powered recommendation system
+
+💳 Online fee payment integration
+
+📧 Email and SMS notifications
+
+📱 Mobile responsive improvements
+
+📊 Advanced analytics dashboard
 
 ## 🎓 Learning Outcomes
-This project, developed as a major academic milestone, demonstrated expertise in:
-*   Developing custom **Matching Algorithms** based on user-weighted preferences.
-*   Implementing secure **Authentication & Authorization** protocols.
-*   Designing **Modern UI/UX** with a focus on minimalist and interactive aesthetics.
+Through this project, I learned:
 
----
+🌐 Full-stack web development
 
-**Author:** [Arjun Acharya](https://github.com/Acharya-Arjun)
+🗃️ Database design and management
+
+🔌 REST API integration
+
+🔐 Authentication and authorization
+
+🧠 Smart matching logic implementation
+
+🏗️ Real-world software architecture
+
+## 👨‍💻 Author
+Arjun Acharya
+
+🔗 GitHub: https://github.com/Acharya-Arjun
+
+## 📜 License
+📝 This project is developed for academic and learning purposes.
+

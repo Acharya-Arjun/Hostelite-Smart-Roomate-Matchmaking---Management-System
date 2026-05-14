@@ -56,6 +56,11 @@ Hostel-lite/
 
 ---
 ```
+## 📂 Move Project to XAMPP htdocs
+Bash
+```
+C:/xampp/htdocs/
+```
 ## ⚙️ Start Services
 🟢 Start Apache
 

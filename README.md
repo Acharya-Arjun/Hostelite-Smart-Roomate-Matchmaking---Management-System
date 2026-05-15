@@ -59,8 +59,8 @@ Hostel-lite/
 ├── database/           # MySQL schema and data migrations
 └── Screenshots/        # Visual documentation of the glassmorphism UI
 ```
----
-**Server Configuration:**
+
+## **Server Configuration:**
     *   Place the project folder in your `C:/xampp/htdocs/` directory.
     *   Start **Apache** and **MySQL** via the XAMPP Control Panel.
 3.  **Database Integration:**
@@ -69,6 +69,73 @@ Hostel-lite/
     *   Navigate to `http://localhost/HMS` in your browser.
 
 ---
+# Screenshots
+
+## 🛡️ Admin Screenshots
+
+<table>
+  <tr>
+    <td width="50%"><img alt="Screenshot 1" src="https://github.com/user-attachments/assets/101b38bd-757b-41f1-886d-d5c30fa97083" width="100%" /></td>
+    <td width="50%"><img alt="Screenshot 2" src="https://github.com/user-attachments/assets/71c777fc-95c2-4a8c-bf33-1da170e8d56c" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 3" src="https://github.com/user-attachments/assets/b4dc2482-9322-4e7d-9d36-1669a78c51be" width="100%" /></td>
+    <td><img alt="Screenshot 4" src="https://github.com/user-attachments/assets/912bc393-5538-4dd6-a3ba-54fd0cfa0374" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 5" src="https://github.com/user-attachments/assets/c73138cf-8bbd-481b-9236-73982a992eb1" width="100%" /></td>
+    <td><img alt="Screenshot 6" src="https://github.com/user-attachments/assets/fdc7fbfb-aeaa-449c-ab35-f6df51a841c9" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 7" src="https://github.com/user-attachments/assets/755a2637-75c5-44f6-9c75-0d3771bc2d50" width="100%" /></td>
+    <td><img alt="Screenshot 8" src="https://github.com/user-attachments/assets/a75dfc20-5d7e-4943-9889-1fec0b2dd9b2" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 9" src="https://github.com/user-attachments/assets/b3fdfb4d-b1f5-47fe-a6bb-1a754fb14456" width="100%" /></td>
+    <td><img alt="Screenshot 10" src="https://github.com/user-attachments/assets/9c39e435-e6a4-4d63-8eb8-9453f4e00b37" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 11" src="https://github.com/user-attachments/assets/75a7f750-ee3e-4abd-941a-8d19964b0f4a" width="100%" /></td>
+    <td></td>
+  </tr>
+</table>
+
+## 🎓 User Screenshots
+
+<table>
+  <tr>
+    <td width="50%"><img alt="Screenshot 1" src="https://github.com/user-attachments/assets/27cb987e-ee0c-4236-973b-936e3f74dc47" width="100%" /></td>
+    <td width="50%"><img alt="Screenshot 2" src="https://github.com/user-attachments/assets/2e517618-1af2-46b9-80c2-89ede4d3ddce" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 3" src="https://github.com/user-attachments/assets/a726e1a9-c6f4-48a0-b699-8bd4f9a37861" width="100%" /></td>
+    <td><img alt="Screenshot 4" src="https://github.com/user-attachments/assets/192f775a-e0b8-42bf-b75d-5b446363c9a0" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 5" src="https://github.com/user-attachments/assets/c61301bf-07d9-4485-b9e6-697c0a01f60c" width="100%" /></td>
+    <td><img alt="Screenshot 6" src="https://github.com/user-attachments/assets/0ed73eb0-e8c3-442b-b13d-6a269be2370d" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 7" src="https://github.com/user-attachments/assets/bea8cdc1-700b-415d-8c92-a5df607cc16d" width="100%" /></td>
+    <td><img alt="Screenshot 8" src="https://github.com/user-attachments/assets/5ab1b5b9-981e-4d3d-b658-f2e98f72bd32" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 9" src="https://github.com/user-attachments/assets/140cf94a-c1e7-4bf1-8ce5-41a3f3bc1b21" width="100%" /></td>
+    <td><img alt="Screenshot 10" src="https://github.com/user-attachments/assets/74853a87-fbb5-4f31-aa87-4b9cd33d7ee3" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 11" src="https://github.com/user-attachments/assets/1563f3c0-4183-43c9-8f67-a50fb96a5a1f" width="100%" /></td>
+    <td><img alt="Screenshot 12" src="https://github.com/user-attachments/assets/ef45d0e8-d7eb-4fc0-aaa2-39b035a90dbd" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 13" src="https://github.com/user-attachments/assets/75453baa-3ffa-49b5-8f34-ee691f3dc8bf" width="100%" /></td>
+    <td><img alt="Screenshot 14" src="https://github.com/user-attachments/assets/2d98c894-5bf6-4449-b82b-6ca8e5040965" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img alt="Screenshot 15" src="https://github.com/user-attachments/assets/95330f9c-32e3-443d-8d37-7baa485904ac" width="100%" /></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 📂 Move Project to XAMPP htdocs
 Bash
